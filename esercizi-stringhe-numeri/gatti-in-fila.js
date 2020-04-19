@@ -17,3 +17,5 @@
 
   http://www.imparareaprogrammare.it
 */
+
+vae cats = 44;
